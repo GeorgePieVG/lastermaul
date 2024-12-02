@@ -1,5 +1,5 @@
 # Lastermaul credits:
-* Georgy "GeorgePieVG" Samoilov - project lead, sprites, textures
+* Georgy Samoilov - project lead, sprites, textures
 * Catoptromancy - maps, testing, base data
 * Craneo - sprites, textures
 * Amuscaria - sprites
@@ -12,6 +12,7 @@
 * donowa - textures (w_304, w_361)
 * Lippeth - musics
 * Tristan Clark - musics
+* Burgish - orc sprites
 
 See the buildcfg.txt file for *FULL* credits
 
