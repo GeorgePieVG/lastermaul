@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: BSD-3-Clause
+
 // ------------------------------------------------------
 // ----------------- HEXEN GAME LIGHTS ------------------
 // ------------------------------------------------------
@@ -359,28 +361,28 @@ object HolySpirit
 pointlight MWAND_X1
 {
     attenuate 1
-	color 0.3 0.3 1.0
+	color 1.0 1.0 0.3
     size 48
 }
 
 pointlight MWAND_X2
 {
     attenuate 1
-	color 0.2 0.2 0.8
+	color 0.8 0.8 0.2
     size 60
 }
 
 pointlight MWAND_X3
 {
     attenuate 1
-	color 0.1 0.1 0.6
+	color 0.6 0.6 0.1
     size 72
 }
 
 pointlight MWAND_X4
 {
     attenuate 1
-	color 0.0 0.0 0.4
+	color 0.4 0.4 0.0
     size 84
 }
 
@@ -1483,7 +1485,7 @@ object ZChandelier
 flickerlight2 BRASSTORCH
 {
     attenuate 1
-	color 1.0 0.7 0.0
+	color 1.0 0.3 0.0
     size 60
     secondarysize 72
     interval 0.1

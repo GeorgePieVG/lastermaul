@@ -3,7 +3,7 @@
 ; Lastermaul MAPINFO
 ; Uses old Hexen format for compatibility
 
-map 1 "DEMO MAP"
+map 1 "INTO THE DARKNESS"
 warptrans 1
 next 2
 cluster 1

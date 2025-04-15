@@ -124,3 +124,19 @@ pic 4 rand 4 6
 pic 5 rand 4 6
 
 ; Lastermaul extra animations
+
+; Blood
+
+texture x_blood1
+
+pic 1 rand 5 12
+pic 2 rand 5 12
+pic 3 rand 5 12
+pic 4 rand 5 12
+
+flat flblood1
+
+pic 1 rand 5 12
+pic 2 rand 5 12
+pic 3 rand 5 12
+pic 2 rand 5 12
