@@ -1,0 +1,9 @@
+IWad
+{
+	Name = "Lastermaul"
+	AutoName = "Lastermaul"
+	Game = "Hexen"
+	Config = "Lastermaul"
+	StartupType = "Hexen"
+	BannerColors = "ff ff ff", "c9 00 00"
+}

@@ -18,6 +18,7 @@ all: deutex-check $(OBJS)
 
 subdirs:
 	# $(MAKE) VERSION=$(VERSION) -C lumps/text
+	$(MAKE) -C lumps/colormap
 	$(MAKE) -C lumps/genmidi
 	$(MAKE) -C lumps/dmxgus
 	$(MAKE) -C lumps/textures
@@ -63,6 +64,7 @@ clean:
 	rm wadinfo_lastermaul.txt
 	
 	# $(MAKE) -C lumps/text clean
+	$(MAKE) -C lumps/colormap clean
 	$(MAKE) -C lumps/genmidi clean
 	$(MAKE) -C lumps/dmxgus clean
 	$(MAKE) -C lumps/textures clean

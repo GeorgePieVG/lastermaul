@@ -1,38 +1,38 @@
 = Lastermaul
 
+PLEASE NOTE THAT LASTERMAUL IS STILL IN THE EARLY STAGE OF DEVELOPMENT AND IS NOT USABLE AS A REPLACEMENT FOR HEXEN, NOR IS IT PLAYABLE. 
+
 image::graphics/m_htic.png[]
 
-Lastermaul is a Hexen-compatible spin-off to https://github.com/Catoptromancy/blasphemer[Blasphemer].
-
-At the moment, Lastermaul is at a very early stage of development. Any help is welcome.
+_Lästermaul_ is a _Hexen_-compatible spin-off to https://github.com/Catoptromancy/blasphemer[Blasphemer].
 
 == How to play
 
-Any limit-removing _Doom_ source port that is compatible with _Hexen_ can be used to play Lastermaul. Lastermaul is an iwad, meaning the complete set of resources required for a game but still requires an executable engine to be played. You can turn your favorite _Hexen_ pwads into Lovecraftian nightmares using Lastermaul.
+Any limit-removing _Doom_ source port that is compatible with _Hexen_ can be used to play _Lästermaul_. _Lästermaul_ is an IWAD, meaning the complete set of resources required for a game but still requires an executable engine to be played. You can turn your favorite _Hexen_ pwads into Lovecraftian nightmares using _Lästermaul_.
 
 == What “free” means
 
 When we speak of free content or software, we refer to the movement in
 which your freedoms to use, copy, modify, and study a work is not
-infringed.  For example, you may freely use _Lastermaul_ for any purpose
+infringed.  For example, you may freely use _Lästermaul_ for any purpose
 you see fit, you may redistribute it to anyone without needing to ask
 for permission, you may modify it (provided you keep the license
 intact, see `COPYING`), and you may study it--for example, to see how
 an “IWAD” is built.  To facilitate this, you can get the full source
-code for _Lastermaul_, in this case, in the form of a DeuTex tree.
+code for _Lästermaul_, in this case, in the form of a DeuTex tree.
 
 You may read more about free software at the https://www.gnu.org/[GNU]
 and https://www.fsf.org/[Free Software Foundation] websites.
 
 == Contributing to Lastermaul
 
-While Lastermaul is currently fully playable, there are still many resources that need to be created or polished. You can become a contributor by submitting a new or modified resource.
+While _Lästermaul_ is currently fully playable, there are still many resources that need to be created or polished. You can become a contributor by submitting a new or modified resource.
 
-Submitting resources to Lastermaul can be done using pull requests on github, or just posting your work to the https://www.doomworld.com/vb/freedoom/70732-Lastermaul-discussion/[forums] or on https://discord.gg/M7jhmw9zn4[discord]. 
+Submitting resources to _Lästermaul_ can be done using pull requests on github, or just posting your work to the https://www.doomworld.com/forum/topic/147382-l%C3%A4stermaul-freehexen-discussion/[forums] or on https://discord.gg/M7jhmw9zn4[Heretic & Hexen discord] (#zauberer channel). 
 
-If you have found a bug or other issue, you can post them to the https://github.com/Catoptromancy/Lastermaul/issues[issues] page on github.
+If you have found a bug or other issue, you can post them to the https://github.com/GeorgePieVG/lastermaul/issues[issues] page on github.
 
-The target port/engine for Lastermaul is https://doomwiki.org/wiki/Crispy_Doom[Crispy Doom], it's recommended to test your maps on it. 
+The target port/engine for _Lästermaul_ is https://doomwiki.org/wiki/Crispy_Doom[Crispy Doom], it's recommended to test your maps on it. 
 
 === Contribution Guidelines
 
@@ -44,12 +44,12 @@ This is an free/libre content project, and as such, must adhere to strict licens
 
   * Public Domain material is allowed, ONLY if it is unambiguously Public Domain.  Beware of sites which claim their material is "public domain" while admitting that the sources are unknown: in all likelihood they are in fact copyrighted to someone and may NOT be used.
   * CC0 licensed material is allowed.
-  * CC-BY, CC-BY-SA and GPL material is NOT allowed *at the moment*. We may reconsider the inclusion of such materials that have more conditions than the Lastermaul license, with clean labeling of course. 
-  * CC-BY-NC, CC-BY-NC-SA, CC-BY-ND and CC-BY-NC-ND and other “non-commercial use only” material is NOT allowed.
+  * CC-BY, CC-BY-SA and GPL material is NOT allowed *at the moment*. We may reconsider the inclusion of such materials that have more conditions than the Lästermaul license, with clean labeling of course. 
+  * CC-BY-NC, CC-BY-NC-SA, CC-BY-ND and CC-BY-NC-ND and other “non-commercial use only” and "no derivatives" material is NOT allowed.
   * https://www.gnu.org/licenses/license-list.html#informal[Informal] licenses (i.e. free to use with credit) requires individual consideration. 
   * Other licenses should be assumed to be NOT allowed.
   
-Be aware that the BSD license allows for modification and commercial use, however, the official Lastermaul releases are, and will remain, free of charge.  
+Be aware that the BSD license allows for modification and commercial use, however, the official _Lästermaul_ releases are, and will remain, free of charge.  
 
 ==== General Concerns
 
@@ -69,7 +69,7 @@ Be aware that the BSD license allows for modification and commercial use, howeve
 
 ==== Levels
 
-  * Target map format is Hexen plus limit removal. Do not use port-specific map features.
+  * Target map format is _Hexen_ plus limit removal. Do not use port-specific map features.
   * Hub 1: Ghost Town
   * Hub 2: Predominantly natural locations
   * Hub 3: Haunted Mansion
@@ -79,7 +79,7 @@ Be aware that the BSD license allows for modification and commercial use, howeve
 
 == Feedback & Community
 
-Join us on https://www.doomworld.com/forum/topic/147382-l%C3%A4stermaul-the-new-freehexen-discussion/[DoomWorld] and https://discord.gg/M7jhmw9zn4[Discord]!
+Join us on https://www.doomworld.com/forum/topic/147382-l%C3%A4stermaul-freehexen-discussion/[DoomWorld] and https://discord.gg/M7jhmw9zn4[Discord]!
 
 == Screenshots
 

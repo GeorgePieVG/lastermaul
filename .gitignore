@@ -16,6 +16,9 @@ wad*.txt
 
 /wads/
 
+/lumps/colormap/*.lmp
+
+/lumps/colormap.lmp
 /lumps/dmxgus.lmp
 /lumps/genmidi.lmp
 /lumps/pnlstr*.lmp
